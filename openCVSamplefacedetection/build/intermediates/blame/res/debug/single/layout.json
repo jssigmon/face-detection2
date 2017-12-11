@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\layout\\home_layout.xml",
+        "source": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\layout\\home_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\layout\\cam_layout.xml",
+        "source": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\layout\\cam_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\layout\\verify_layout.xml",
+        "source": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\layout\\verify_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\layout\\face_detect_surface_view.xml",
+        "source": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\layout\\face_detect_surface_view.xml"
+    }
+]

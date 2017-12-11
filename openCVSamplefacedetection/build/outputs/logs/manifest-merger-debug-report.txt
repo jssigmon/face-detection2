@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:3:11-38
+		INJECTED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:5:11-37
+		INJECTED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:4:11-36
+		INJECTED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:7:5-33:19
+	android:label
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:9:9-41
+activity#com.boz.detection.MainActivity
+ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:12:9-19:20
+	android:screenOrientation
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:14:13-49
+	android:label
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:13:13-45
+	android:name
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:12:19-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:17:27-74
+activity#com.boz.detection.CamActivity
+ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:21:9-25:20
+	android:screenOrientation
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:22:13-50
+	android:configChanges
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:23:13-63
+	android:theme
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:24:13-71
+	android:name
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:21:19-63
+activity#com.boz.detection.VerifyActivity
+ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:27:9-30:20
+	android:screenOrientation
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:29:13-49
+	android:theme
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:28:13-71
+	android:name
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:27:19-66
+supports-screens
+ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:35:5-39:51
+	android:largeScreens
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:38:23-50
+	android:smallScreens
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:36:23-50
+	android:normalScreens
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:37:23-51
+	android:resizeable
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:35:23-48
+	android:anyDensity
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:39:23-48
+uses-sdk
+ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:41:5-43
+MERGED from [face-detection2:openCVLibrary331:unspecified] C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVLibrary331\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:41:15-40
+		INJECTED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:43:5-64
+	android:name
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:43:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:44:5-80
+	android:name
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:44:22-78
+uses-feature#android.hardware.camera
+ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:45:5-84
+	android:required
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:45:58-82
+	android:name
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:45:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:46:5-94
+	android:required
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:46:68-92
+	android:name
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:46:19-67
+uses-feature#android.hardware.camera.front
+ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:47:5-90
+	android:required
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:47:64-88
+	android:name
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:47:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:48:5-100
+	android:required
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:48:74-98
+	android:name
+		ADDED from C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\src\main\AndroidManifest.xml:48:19-73

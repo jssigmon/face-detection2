@@ -1,0 +1,10 @@
+{
+  "buildFiles": [
+    "C:\\Users\\dweom\\Android-SDKs\\opencv-3.3.1-android-sdk\\OpenCV-android-sdk\\sdk\\native\\jni\\OpenCV.mk"
+  ],
+  "cleanCommands": [],
+  "libraries": {},
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

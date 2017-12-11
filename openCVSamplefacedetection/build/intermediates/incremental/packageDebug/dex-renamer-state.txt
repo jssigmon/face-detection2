@@ -1,0 +1,7 @@
+#Sun Dec 10 13:36:31 EST 2017
+base.0=C\:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_efd0beba3afcd7d7b20491d90d5c62e006f5174d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4a1cff111c5de23aaf4642bddad719e7a2bca42c\\classes.dex
+base.1=C\:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4a1cff111c5de23aaf4642bddad719e7a2bca42c
+file.0=C\:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_efd0beba3afcd7d7b20491d90d5c62e006f5174d\\classes.dex

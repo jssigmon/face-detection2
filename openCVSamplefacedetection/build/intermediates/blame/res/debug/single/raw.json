@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\cat_cascade_v4_10.xml",
+        "source": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\raw\\cat_cascade_v4_10.xml"
+    },
+    {
+        "merged": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\cat_cascade_v2.xml",
+        "source": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\raw\\cat_cascade_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\cat_cascade.xml",
+        "source": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\raw\\cat_cascade.xml"
+    },
+    {
+        "merged": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\cat_cascade_v4_12.xml",
+        "source": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\raw\\cat_cascade_v4_12.xml"
+    },
+    {
+        "merged": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\cat_cascade_v4_full.xml",
+        "source": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\raw\\cat_cascade_v4_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\cat_cascade_v4_15.xml",
+        "source": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\raw\\cat_cascade_v4_15.xml"
+    },
+    {
+        "merged": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\cat_cascade_v4_11.xml",
+        "source": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\raw\\cat_cascade_v4_11.xml"
+    },
+    {
+        "merged": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_frontalface.xml",
+        "source": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
+    },
+    {
+        "merged": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\cat_cascade_v3.xml",
+        "source": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\raw\\cat_cascade_v3.xml"
+    },
+    {
+        "merged": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\build\\intermediates\\res\\merged\\debug\\raw\\cat_cascade_v4_13.xml",
+        "source": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\raw\\cat_cascade_v4_13.xml"
+    }
+]

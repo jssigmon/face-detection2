@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a6fcee939df46f5eb433f3b1fcdbfd022885dc6f">
+        <dex dex="C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_efd0beba3afcd7d7b20491d90d5c62e006f5174d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\dweom\AndroidStudioProjects\face-detection2\openCVSamplefacedetection\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4a1cff111c5de23aaf4642bddad719e7a2bca42c\classes.dex" />
+    </item>
+
+</items>

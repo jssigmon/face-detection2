@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 191
+                },
+                "from": {
+                    "file": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endLine": 8,
+                        "endColumn": 19,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 196,
+                    "endColumn": 45,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 46,
+                    "endOffset": 284
+                },
+                "from": {
+                    "file": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 289,
+                    "endColumn": 50,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endColumn": 59,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 690,
+                    "endColumn": 47,
+                    "endOffset": 733
+                },
+                "from": {
+                    "file": "C:\\Users\\dweom\\AndroidStudioProjects\\face-detection2\\openCVSamplefacedetection\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cat Finder</string>
+
+    <string-array name="mode_array">
+        <item>Block</item>
+        <item>Window</item>
+        <item>Tracker</item>
+    </string-array>
+
+
+
+</resources>
